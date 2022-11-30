@@ -13,7 +13,9 @@ Hashmat Murad Khel</h1>
 <h4 align="center">1 year of experience in Web Development.</h4>
 
 
-[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hashmat481)[![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/hashmat.__.malik/) 
+[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hashmat481)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/hashmat.__.malik/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hashmat4)
 - :muscle: Currently working as a freelance developer.
 - :gift_heart: Author of open source projects.
 - :moneybag: Looking for new clients who wants to work with me, [contact me](hashmatullahh481@gmail.com) please.
