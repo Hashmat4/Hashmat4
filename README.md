@@ -20,6 +20,8 @@ Hashmat Murad Khel</h1>
 - :muscle: Currently working as a freelance developer.
 - :gift_heart: Author of open source projects.
 - :moneybag: Looking for new clients who wants to work with me, [contact me](hashmatullahh481@gmail.com) please.
+- <a href="tel:+93788697917"> (+93) 78 86 97 917</a>
+- 
 - :trophy: 2022 Goals: Contribute and publish more open source projects.
 - :dart: Wasting my time to save other people's time.
 
