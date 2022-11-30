@@ -33,6 +33,9 @@ Hashmat Murad Khel</h1>
 
 [![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=hashmat4&layout=compact&theme=chartreuse-dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=hashmat4&theme=chartreuse-dark)
 
+    <a href="https://github-readme-streak-stats.herokuapp.com">
+        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=hashmat4&theme=onedark&hide_border=true"/>
+    </a>
 </details>
 
  
