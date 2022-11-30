@@ -35,5 +35,5 @@ Hashmat Murad Khel</h1>
 
 </details>
 
-
+ 
 :computer: Made with :heart: by **Hashmat Murad Khel**  :pray:
