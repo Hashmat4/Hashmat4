@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 />
 
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am 
+<h1 align="center"> I am 
 Hashmat Murad Khel</h1>
 <h3 align="center">Web Developer </h3>
 <h4 align="center">1 year of experience in Web Development.</h4>
