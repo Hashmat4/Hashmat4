@@ -3,6 +3,10 @@
 Hashmat4/Hashmat4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 -->
+
+<h3>### Visitor count </h3>
+<img src="https://profile-counter.glitch.me/hashmat4/count.svg" />
+<br />
 <img
     align="right"
     height="300"
