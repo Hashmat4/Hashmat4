@@ -46,9 +46,6 @@ Hashmat Murad Khel</h1>
 [![Waren Gonzaga Github Stats](https://github-readme-stats.vercel.app/api?username=hashmat4&count_private=true&theme=chartreuse-dark)](https://github-readme-stats.vercel.app/api?username=hashmat4&count_private=true&theme=chartreuse-dark) <br/><br/>
 
 [![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=hashmat4&layout=compact&theme=chartreuse-dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=hashmat4&theme=chartreuse-dark)
-
-<img
-     src="https://activity-graph.herokuapp.com/graph?username=hashmat4&theme=chartreuse
      
      
 </details>
