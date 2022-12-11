@@ -48,8 +48,7 @@ Hashmat Murad Khel</h1>
 [![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=hashmat4&layout=compact&theme=chartreuse-dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=hashmat4&theme=chartreuse-dark)
 
 <img
-     src="https://activity-graph.herokuapp.com/graph?username=hashmat4&theme=chartreuse-dark"
-     />
+     src="https://activity-graph.herokuapp.com/graph?username=hashmat4&theme=chartreuse
      
      
 </details>
