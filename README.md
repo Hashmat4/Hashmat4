@@ -48,6 +48,7 @@ Hashmat Murad Khel</h1>
 [![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=hashmat4&layout=compact&theme=chartreuse-dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=hashmat4&theme=chartreuse-dark)
      
      
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hashmat4" alt="Hashmat4" /></a> </p>
 </details>
 
  
