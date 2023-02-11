@@ -51,5 +51,11 @@ Hashmat Murad Khel</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hashmat4" alt="Hashmat4" /></a> </p>
 </details>
 
+ <a href="https://github-readme-stats.vercel.app">
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=hashmat4&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
+    </a>
+    <a href="https://github-readme-streak-stats.herokuapp.com">
+        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=hashmat4&theme=onedark&hide_border=true"/>
+    </a>
  
 :computer: Made with :heart: by **Hashmat Murad Khel**  :pray:
