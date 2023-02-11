@@ -41,15 +41,11 @@ Hashmat Murad Khel</h1>
 
 ## :wrench: Technologies
 
-![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![NodeJS](https://img.icons8.com/color/30/nodejs.png)![PHP](https://img.icons8.com/color/30/php.png)![SASS](https://img.icons8.com/color/30/sass.png)![NPM](https://img.icons8.com/color/30/npm.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Gitlab](https://img.icons8.com/color/30/gitlab.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/flutter.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![Windows](https://img.icons8.com/color/30/console.png)
+![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![NodeJS](https://img.icons8.com/color/30/nodejs.png)![PHP][Github](https://img.icons8.com/material-outlined/30/github.png)![Gitlab](https://img.icons8.com/color/30/gitlab.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/react-native.png)![Windows](https://img.icons8.com/color/30/console.png)
 
 [![Waren Gonzaga Github Stats](https://github-readme-stats.vercel.app/api?username=hashmat4&count_private=true&theme=chartreuse-dark)](https://github-readme-stats.vercel.app/api?username=hashmat4&count_private=true&theme=chartreuse-dark) <br/><br/>
 
 [![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=hashmat4&layout=compact&theme=chartreuse-dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=hashmat4&theme=chartreuse-dark)
-     
-     
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hashmat4" alt="Hashmat4" /></a> </p>
-</details>
 
  <a href="https://github-readme-stats.vercel.app">
         <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=hashmat4&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
