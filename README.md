@@ -35,7 +35,7 @@ Hashmat Malik</h1>
 - :gift_heart: Author of open source projects.
 - :moneybag: Looking for new clients who wants to work with me, [contact me](hashmatullahh481@gmail.com) please.
 - <a href="tel:+93788697917"> (+93) 78 86 97 917</a>
-- :trophy: 2022 Goals: Contribute and publish more open source projects.
+- :trophy: 2023 Goals: Contribute and publish more open source projects.
 - :dart: Wasting my time to save other people's time.
 
 
