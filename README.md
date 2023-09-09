@@ -51,4 +51,4 @@ Hashmat Malik</h1>
         <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=hashmat4&theme=onedark&hide_border=true"/>
     </a>
  
-:computer: Made with :heart: by **Hashmat Murad Khel**  :pray:
+:computer: Made with :heart: by **Hashmat Malik**  :pray:
