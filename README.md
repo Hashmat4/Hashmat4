@@ -22,9 +22,9 @@ You can click the Preview link to take a look at your changes.
 
 <hr>
 <h1 align="center"> I am 
-Hashmat Malik</h1>
+Hashmat</h1>
 <h3 align="center">Web Developer </h3>
-<h4 align="center">1 year of experience in Web Development.</h4>
+<h4 align="center">2 years of experience in Web Development.</h4>
 
 
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hashmat481)
